@@ -1,6 +1,6 @@
 class Costume < ActiveRecord::Base
   class CreateCostumes < ActiveRecord::Migration
-    def change 
+    def change
       create_table :costumes do |t|
         t.string :name
         t.float :price
