@@ -1,3 +1,3 @@
 # Create your haunted_houses migration here
-class HauntedHouse < ActiveRecord::Base 
+class HauntedHouse < ActiveRecord::Base
 end
